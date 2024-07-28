@@ -1,16 +1,29 @@
-### Hi there 👋
+## ¡Hola, soy Cintia Poloni! 👋
 
-<!--
-**CPoloni/CPoloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+Mi nombre es Cintia Poloni, soy Arquitecta de profesión con un enorme interés en el mundo de las tecnologías. Mi curiosidad y mis ganas de aprender me llevaron a estudiar y recientemente completé mi formación en Desarrollo Web Full Stack en Soy Henry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Durante el desarrollo de mi carrera, aprendí diversas tecnologías que pude aplicar en proyectos prácticos, tanto individuales como grupales, donde pude desarrollar soluciones creativas y eficientes y fortalecer la dinámica del trabajo en equipo.
+
+Mi interes es crear aplicaciones web funcionales, atenta a la experiencia del usuario y a la calidad del código, limpio y eficiente, siguiendo las buenas practicas de la industria. Ademas de seguir en constante formacion para incorpar nuevas tecnoligias a mis proyectos.
+
+### Mis competencias
+
+- Front-end: JavaScript, React, Redux, HTML, CSS.
+- Back-end: Node.js, Express, Sequelize.
+- Bases de datos: PostgreSQL.
+- Control de versiones: Git, GitHub.
+- Metodologías ágiles: Scrum.
+
+<table>
+<tr>
+<td>
+  
+Estoy enfocada por conectar con otros profesionales y explorar oportunidades en el ámbito del desarrollo web.
+
+Te dejo mi email para que puedas contactarme: cintia.poloni@gmail.com
+
+</td>
+</tr>
+</table>
